@@ -1,0 +1,12 @@
+[terminal]
+shell = { program = "/bin/zsh", args = ["-l"] }
+
+[window]
+startup_mode = "Windowed"
+
+[font]
+size = 13.0
+
+# Good to keep scrollback sane
+[scrolling]
+history = 10000
